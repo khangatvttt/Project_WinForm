@@ -1,0 +1,12 @@
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\BTVN_Tuan3.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\BTVN_Tuan3.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\BTVN_Tuan3.Properties.Resources.resources
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\BTVN_Tuan3.csproj.GenerateResource.cache
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\BTVN_Tuan3.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\bin\Debug\BTVN_Tuan3.exe.config
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\bin\Debug\BTVN_Tuan3.exe
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\bin\Debug\BTVN_Tuan3.pdb
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\BTVN_Tuan3.exe
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\BTVN_Tuan3.pdb
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\BTVN_Tuan3.F_HocSinh.resources
+D:\LapTrinhWindows\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\BTVN_Tuan3.F_GiaoVien.resources
