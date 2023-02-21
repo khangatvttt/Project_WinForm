@@ -28,6 +28,7 @@ namespace BTVN_Tuan3
                 if (txt.GetType() == typeof(TextBox))
                     txt.Text = "";
             Form2_Load(sender, e);
+            ///ABC
         }
 
         private void Form2_Load(object sender, EventArgs e)
