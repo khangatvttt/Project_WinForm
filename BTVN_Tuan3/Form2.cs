@@ -23,7 +23,6 @@ namespace BTVN_Tuan3
             GiaoVien Gv = new GiaoVien(txtMaGV.Text, txtHoTen.Text, txtQue.Text,
                                                 dtpNgaySinh.Value.Date, txtCmnd.Text, txtEmail.Text, txtSDT.Text);
             GiaoVienDAO GvDAO = new GiaoVienDAO();
-            MessageBox.Show("abc");
             GvDAO.Them(Gv);
             foreach (Control txt in this.Controls)
                 if (txt.GetType() == typeof(TextBox))
